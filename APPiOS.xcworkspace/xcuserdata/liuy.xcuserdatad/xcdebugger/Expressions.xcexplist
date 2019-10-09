@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ChatViewController tableView:cellForRowAtIndexPath:]:ChatViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DocManagerController tableView:cellForRowAtIndexPath:]:DocManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo.electrician_certifi">
+            </PersistentString>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo.insurance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UIViewController(share) showShareWithModel:friendModel:shareType:]:UIViewController+share.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shareType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MinePagesController viewWillAppear:]:MinePagesController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SkillManagerController initData]:SkillManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomePagesController OnHttpDataBack:responseDWay:data:userInfo:response:]:HomePagesController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.coinTradeInfoArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__55-[UserSetController tableView:didSelectRowAtIndexPath:]_block_invoke:UserSetController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamApplyController postSubmitData]:TeamApplyController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatViewController dealMessageWithArray:]:ChatViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[KDNetHttpReqCenter sendHttpReq:sendDic:URL:responseDWay:api:nsl:stl:]:KDNetHttpReqCenter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewBuySellCoinController OnHttpDataBack:responseDWay:data:userInfo:response:]:NewBuySellCoinController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.coinTradeInfoArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ElectricianCerController commitData]:ElectricianCerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.electricianData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamHomeController postUpDataData]:TeamHomeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Cocoa_TradingVolumeView calcuteMaxAndMinValue]:Cocoa_TradingVolumeView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.maxValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityOneListController initData]:CityOneListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityTwoListController tableView:didSelectRowAtIndexPath:]:CityTwoListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.oneDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomePagesController clickWithIndex:]:HomePagesController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "activityVC.activityUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberServiceTypeController initData]:MemberServiceTypeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "self.teamServiceType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberManagerController OnHttpDataBack:responseDWay:data:userInfo:response:]:MemberManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BigerCustomShareView creatShareView]:BigerCustomShareView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didFailToRegisterForRemoteNotificationsWithError:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tabBarVC">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamHomeController tableView:cellForRowAtIndexPath:]:TeamHomeController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ValuationSelectView show]:ValuationSelectView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "toolBar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[TeamWarehouseManagerController didAddBtnClick:]_block_invoke:TeamWarehouseManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__25-[FastNewsShareView show]_block_invoke.153:FastNewsShareView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.screenshot">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[TeamHomeController viewWillAppear:]_block_invoke:TeamHomeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomePagesController getValuationWithArray:]:HomePagesController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Cocoa_TradingVolumeView refreshChartView]:Cocoa_TradingVolumeView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.displayArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__44-[TeamCarsManagerController didAddBtnClick:]_block_invoke:TeamCarsManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Cocoa_ChartManager longGesture:]:Cocoa_ChartManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.temptecnnicalStateView.scaleValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.temptecnnicalStateView.coordinateminValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UserSetController tableView:cellForRowAtIndexPath:]:UserSetController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AreaManagerController didRightBtnClick:]:AreaManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KDNetHttpReqCenter ParserResult:isok:data:error:]:KDNetHttpReqCenter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Url">
+            </PersistentString>
+            <PersistentString
+               value = "LocalFN">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamCarsManagerController tableView:cellForRowAtIndexPath:]:TeamCarsManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.carsConfigs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberInfoController tableView:cellForRowAtIndexPath:]:MemberInfoController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseViewController checkUserState]:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "[UserManager sharedUserManager]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__54-[FastNewsController tableView:cellForRowAtIndexPath:]_block_invoke:FastNewsController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MarketViewController tableView:viewForHeaderInSection:]:MarketViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__27-[FastNewsCell initSubView]_block_invoke:FastNewsCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "weakSelf.indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[AreaManagerController didAddBtnClick:]_block_invoke:AreaManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FastNewsController shareNews:]:FastNewsController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HotArticleDetailController shareInfo]:HotArticleDetailController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberInfoController relodUIData]:MemberInfoController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RegisterViewController attributedLabel:textStorageClicked:atPoint:]:RegisterViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamHomeController OnHttpDataBack:responseDWay:data:userInfo:response:]:TeamHomeController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamServiceTypeController OnHttpDataBack:responseDWay:data:userInfo:response:]:TeamServiceTypeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sltIdex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UIViewController(share) shareWithType:]:UIViewController+share.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shareType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamWarehouseManagerController postSubmitData]:TeamWarehouseManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UserSetCell layoutSubviews]:UserSetCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mImageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

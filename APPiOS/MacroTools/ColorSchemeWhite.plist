@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Global</key>
+	<dict>
+		<key>ThemeColor</key>
+		<string>#202833</string>
+		<key>NavColor</key>
+		<string>#FFFFFF</string>
+		<key>NavTitleColor</key>
+		<string>#0F3652</string>
+		<key>TabarColor</key>
+		<string>#202833</string>
+		<key>MainViewBackColor</key>
+		<string>#F6F5FC</string>
+		<key>FuViewBackColor</key>
+		<string>#FFFFFF</string>
+		<key>MainTextColor</key>
+		<string>#FFFFFF</string>
+		<key>FuTextColor</key>
+		<string>#9B9EA3</string>
+		<key>TableViewCellColor</key>
+		<string>#202833 </string>
+		<key>TableViewCellSelectColor</key>
+		<string>#F6F6F6</string>
+		<key>SepLineColor</key>
+		<string>#E8E8E8</string>
+		<key>SubmitBtnNomalColor</key>
+		<string>#0099FF</string>
+		<key>BuyBtnNomalColor</key>
+		<string>#07c087</string>
+		<key>SellBtnNomalColor</key>
+		<string>#ee714a</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MemberInfoController tableView:didSelectRowAtIndexPath:]:MemberInfoController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderViewController initFilterView]:OrderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.filterMenus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController bodyRowCountInReport:]:ReportController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArrayA">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__38-[OrderViewController viewWillAppear:]_block_invoke:OrderViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController reloadReportA]:ReportController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController tableView:cellForRowAtIndexPath:]:OrderDesOneController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController rowDataforKZReportView:forIndex:]:ReportController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "in self.headerData">
+            </PersistentString>
+            <PersistentString
+               value = "process_id">
+            </PersistentString>
+            <PersistentString
+               value = "self.headerData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderViewController OnHttpDataBack:responseDWay:data:userInfo:response:]:OrderViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamAreaManagerController tableView:cellForRowAtIndexPath:]:TeamAreaManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesCommonCell layoutSubviews]:OrderDesCommonCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.accessoryView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberServiceTypeController postSubmitData]:MemberServiceTypeController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController OnHttpDataBack:responseDWay:data:userInfo:response:]:OrderDesOneController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonDict[@&quot;data&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberAreaManagerController didAddBtnClick:]:MemberAreaManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController relodUIData]:OrderDesOneController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController initUI]:OrderDesOneController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController OnHttpDataBack:responseDWay:data:userInfo:response:]:ReportController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CityOneListController initData]:CityOneListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.rangData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CarsAddMenu onToolBarBtnClick:]:CarsAddMenu.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.carNumTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityOneListController tableView:didSelectRowAtIndexPath:]:CityOneListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.rangData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController myTableView:selectItemIndexPath:]:ReportController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController headerDataforKZReportView:]:ReportController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.headerData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController myTableView:selectTopIndex:]:ReportController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesTwoController loadDynFooterView]:OrderDesTwoController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.addHintBtn">
+            </PersistentString>
+            <PersistentString
+               value = "desModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__44-[TeamAreaManagerController didAddBtnClick:]_block_invoke:TeamAreaManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityThreeListController initData]:CityThreeListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.rangData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderArrangeCtrl postFeedBackData]:OrderArrangeCtrl.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.typeChildModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberServiceTypeController initData]:MemberServiceTypeController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController loadDynFooterView]:OrderDesOneController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "desModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityTwoListController tableView:didSelectRowAtIndexPath:]:CityTwoListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.rangData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__38-[MinePagesController viewWillAppear:]_block_invoke:MinePagesController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo.auth_status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CityTwoListController initData]:CityTwoListController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+            <PersistentString
+               value = "self.rangData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController didDataPickerItemClick::]:OrderDesOneController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orderId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TeamAreaManagerController postSubmitData]:TeamAreaManagerController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyTableView reload]:MyTableView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrTopTitle">
+            </PersistentString>
+            <PersistentString
+               value = "self.arrLeftTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MemberInfoController OnHttpDataBack:responseDWay:data:userInfo:response:]:MemberInfoController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BaseViewController checkUserState]:BaseViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UserManager sharedUserManager].userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderDesOneController postOrderData]:OrderDesOneController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellArrray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XYPhotoPickerView collectionView:cellForItemAtIndexPath:]:XYPhotoPickerView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.showImageArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__46-[MemberAreaManagerController didAddBtnClick:]_block_invoke:MemberAreaManagerController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AttachmentListController showShareView:]:AttachmentListController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController myTableView:selectTitleIndexPath:]:ReportController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ReportController relodUIData]:ReportController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataArrayB">
+            </PersistentString>
+            <PersistentString
+               value = "dataArrayA">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ArrangeRecordController tableView:cellForRowAtIndexPath:]:ArrangeRecordController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderViewController searchBarSearchButtonClicked:]:OrderViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.keywords">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
